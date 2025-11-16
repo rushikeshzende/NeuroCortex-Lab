@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Byte-compiled
+*.egg-info/
+dist/
+build/
+
+# Secrets
+.env
+.env.*
